@@ -1,0 +1,912 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A century of the names and scantlings of such inventions as at present I can call to mind to have tried and perfected, which, my former notes being lost, I have, at the instance of a powerful friend, endeavoured now in the year 1655, to set these down in such a way as may sufficiently instruct me to put any of them in practice</title>
+            <author>Worcester, Edward Somerset, Marquis of, 1601-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 54 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67033</idno>
+            <idno type="STC">Wing W3532</idno>
+            <idno type="STC">ESTC R7944</idno>
+            <idno type="EEBO-CITATION">13725290</idno>
+            <idno type="OCLC">ocm 13725290</idno>
+            <idno type="VID">101583</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67033)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101583)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 855:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A century of the names and scantlings of such inventions as at present I can call to mind to have tried and perfected, which, my former notes being lost, I have, at the instance of a powerful friend, endeavoured now in the year 1655, to set these down in such a way as may sufficiently instruct me to put any of them in practice</title>
+                  <author>Worcester, Edward Somerset, Marquis of, 1601-1667.</author>
+               </titleStmt>
+               <extent>[22], 72, [12] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Grismond,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Worcester.</note>
+                  <note>First edition.</note>
+                  <note>Index: p. [3-11] at end.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Inventions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101583:1"/>
+            <pb facs="tcp:101583:1" rendition="simple:additions"/>
+            <p> A CENTURY OF THE Names and Scantlings OF SUCH INVENTIONS, As at preſent I can call to mind to have tried and perfected, which (my former Notes being loſt) I have, at the inſtance of a power<g ref="char:EOLhyphen"/>ful Friend, endeavoured now in the Year 1655. to ſet theſe down in ſuch a way as may ſuffi<g ref="char:EOLhyphen"/>ciently inſtruct me to put any of them in practice.</p>
+            <p>
+               <hi>—Artis &amp; Naturae proles.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. Griſmond</hi> in the year 1663.</p>
+            <pb facs="tcp:101583:2" rendition="simple:additions"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:101583:2"/>
+            <head>TO THE KINGS Moſt Excellent MAjESTY.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>SCire meum nihil eſt, niſi me ſcire hoc ſciat alter,</hi> ſaith the Poet, and I moſt juſtly in order to Your Majeſty, whoſe ſatis<g ref="char:EOLhyphen"/>faction is my happineſs, and whom to ſerve is my onely aime, placing
+<pb facs="tcp:101583:3"/> therein my <hi>Summum bonum</hi> in this world: Be therefore pleaſed to cast Your gracious Eye over this Summary Col<g ref="char:EOLhyphen"/>lection, and then to pick and chooſe. I con<g ref="char:EOLhyphen"/>feſs, I made it but for the ſuperficial ſatisfa<g ref="char:EOLhyphen"/>ction of a friends curio<g ref="char:EOLhyphen"/>ſity, according as it is ſet downe; and if it might now ſerve to give aime to Your Majeſty
+<pb facs="tcp:101583:3"/> how to make uſe of my poor Endeavours, it would crowne my thoughts, who am nei<g ref="char:EOLhyphen"/>ther covetous nor am<g ref="char:EOLhyphen"/>bitious, but of deſer<g ref="char:EOLhyphen"/>ving Your Majeſties favour upon my own coſt and charges; yet, according to the old Engliſh Proverb, <hi>It is a poor Dog not worth whiſtleing af<g ref="char:EOLhyphen"/>ter.</hi> Let but Your Ma<g ref="char:EOLhyphen"/>jeſty
+<pb facs="tcp:101583:4"/> approve, and I will effectually perform to the height of my <g ref="char:V">Ʋ</g>ndertaking: Vouch<g ref="char:EOLhyphen"/>ſafe but to command, and with my Life and Fortune I ſhall chear<g ref="char:EOLhyphen"/>fully obey, and <hi>maugre</hi> envy, ignorance and malice, ever appear</p>
+            <closer>
+               <signed>
+                  <hi>YOUR MAJESTY's</hi> Paſsionately-devoted, or otherwiſe dis-intereſted Subject and Servant, <hi>WORCESTER</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="author_to_the_Parliament">
+            <pb facs="tcp:101583:4"/>
+            <head>To the Right Honourable, <hi>The Lords Spiritual and Temporal;</hi> And to the <hi>Knights, Citizens and Burgeſſes</hi> of the Honou<g ref="char:EOLhyphen"/>rable Houſe of Commons; now aſſembled in Par<g ref="char:EOLhyphen"/>liament.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>BE not ſtartled if I ad<g ref="char:EOLhyphen"/>dreſs to all, and every of you, this Century of Summary Heads of won<g ref="char:EOLhyphen"/>derful things, even after the Dedication of them to His moſt Excellent Majeſty, ſince it is with His moſt gracious and particular conſent, as well as indeed no wayes deroga<g ref="char:EOLhyphen"/>ting from my duty to His Sa<g ref="char:EOLhyphen"/>cred
+<pb facs="tcp:101583:5"/> Self, but rather in fur<g ref="char:EOLhyphen"/>ther order unto it, ſince your Lordſhips, who are His great Council, and you Gentlemen His whole Kingdoms Repre<g ref="char:EOLhyphen"/>ſentatives (moſt worthily wel<g ref="char:EOLhyphen"/>come unto Him) may fitly re<g ref="char:EOLhyphen"/>ceive into your wiſe and ſeri<g ref="char:EOLhyphen"/>ous conſiderations what doth or may publickly concern both His Majeſty and His tenderly-beloved People.</p>
+            <p>Pardon me if I ſay (my Lords and Gentlemen) that it is joyntly your parts to di<g ref="char:EOLhyphen"/>geſt to His hand theſe enſu<g ref="char:EOLhyphen"/>ing particulars, fitting them to His palate, and ordering how to reduce them into pra<g ref="char:EOLhyphen"/>ctice in a way uſeful and be<g ref="char:EOLhyphen"/>neficial both to His Majeſty and His Kingdom.</p>
+            <p>Neither do I eſteem it leſs
+<pb facs="tcp:101583:5"/> proper for me to preſent them to you in order to His Maje<g ref="char:EOLhyphen"/>ſty's ſervice, then it is to give into the hands of a faith<g ref="char:EOLhyphen"/>ful and provident Steward whatſoever dainties and pro<g ref="char:EOLhyphen"/>viſions are intended for the Maſters diet; the knowing and faithful Steward being beſt able to make uſe thereof to his Maſters contentment and greateſt profit, keeping for the morrow whatever ſhould be overplus or need<g ref="char:EOLhyphen"/>leſs for the preſent day, or at leaſt to ſave ſomething elſe in lieu thereof. In a word, (my Lords and Gentlemen) I humbly conceive this <hi>Si<g ref="char:EOLhyphen"/>mile</hi> not improper, ſince you are His Majeſty's provident Stewards, into whoſe hands I commit my ſelf, with all
+<pb facs="tcp:101583:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:101583:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:101583:7"/> properties fit to obey you; that is to ſay, with a heart harbouring no ambition, but an endleſs aim to ſerve my King and Countrey: And if my endeavours prove effectu<g ref="char:EOLhyphen"/>al, (as I am confident they will) His Majeſty ſhall not onely become rich, but His People likewiſe, as Treaſu<g ref="char:EOLhyphen"/>rers unto Him; and His Pierleſs Majeſty, our King, ſhall become both belov'd at home, and fear'd abroad; deeming the riches of a King to conſiſt in the plenty enjoy<g ref="char:EOLhyphen"/>ed by his People.</p>
+            <p>And the way to render him to be feared abroad, is to con<g ref="char:EOLhyphen"/>tent his People at home, who then with heart and hand are ready to aſsiſt him; and whatſoever God bleſſeth me
+<pb facs="tcp:101583:7"/> with to contribute towards the increaſe of His Revenues in any conſiderable way, I deſire it may be imployed to the uſe of His People; that is, for the taking off ſuch Taxes or Burthens from them as they chiefly grone under, and by a Temporary neceſsi<g ref="char:EOLhyphen"/>ty onely impoſed on them; which being thus ſupplied will certainly beſt content the King, and ſatisfie His Peo<g ref="char:EOLhyphen"/>ple; which, I dare ſay, is the continual Tend of all your in<g ref="char:EOLhyphen"/>defatigable pains, and the per<g ref="char:EOLhyphen"/>fect demonſtrations of your Zele to His Majeſty, and an evidence that the Kingdoms Truſt is juſtly and deſervedly repoſed in you. And if ever Parliament acquitted them<g ref="char:EOLhyphen"/>ſelves thereof, it is this of
+<pb facs="tcp:101583:8"/> yours, compoſed of moſt de<g ref="char:EOLhyphen"/>ſerving and qualified Per<g ref="char:EOLhyphen"/>ſons; qualified, I ſay, with your affection to your Prince, and with a tenderneſs to His People; with a bountiful heart towards Him, yet a frugality in their behalfs.</p>
+            <p>Go on therefore chearfully (my Lords and Gentlemen) and not onely our gracious King, but the King of Kings, will reward you, the Prayers of the People will attend you, and His Majeſty will with thankful arms embrace you. And be pleaſed to make uſe of me and my endeavours to enrich them, not my ſelf; ſuch being my onely requeſt unto you, ſpare me not in what your Wiſdoms ſhall find me uſeful, who do eſteem my
+<pb facs="tcp:101583:8"/> ſelf not onely by the Act of the Water-commanding En<g ref="char:EOLhyphen"/>gine (which ſo chearfully you have paſt) ſufficiently rewar<g ref="char:EOLhyphen"/>ded, but likewiſe with cou<g ref="char:EOLhyphen"/>rage enabled to do ten times more for the future; and my Debts being paid, and a com<g ref="char:EOLhyphen"/>petency to live according to my Birth and Quality ſetled, the reſt ſhall I dedicate to the ſervice of our King and Countrey by your diſpoſals: and eſteem me not the more, or rather any more, by what is paſt, but what's to come; profeſsing really from my heart, that my Intentions are to out-go the ſix or ſeven hundred thouſand pounds already ſacrificed, if counte<g ref="char:EOLhyphen"/>nanced and encouraged by you, ingenuouſly confeſsing
+<pb facs="tcp:101583:9"/> that the Melancholy which hath lately ſeized upon me (the cauſe whereof none of you but may eaſily gueſs) hath, I dare ſay, retarded more advantages to the pub<g ref="char:EOLhyphen"/>lick ſervice then modeſty will permit me to utter: And now revived by your promi<g ref="char:EOLhyphen"/>ſing favours, I ſhall infallibly be enabled thereunro in the Experiments extant, and compriſed under theſe heads practicable with my directi<g ref="char:EOLhyphen"/>ons by the unparallel'd Work<g ref="char:EOLhyphen"/>man both for truſt and skill, <hi>Caſpar Kaltoff's</hi> hand, who hath been theſe five and thir<g ref="char:EOLhyphen"/>ty years as in a ſchool under me imployed, and ſtill at my diſpoſal, in a place by my great expences made fit for publick ſervice, yet lately
+<pb facs="tcp:101583:9"/> like to be taken from me, and conſequently from the ſer<g ref="char:EOLhyphen"/>vice of King and Kingdom, without the leaſt regard of above ten thouſand pounds expended by me, and through my Zele to the Common good; my Zele, I ſay, a field large enough for you (my Lords and Gentlemen) to work upon.</p>
+            <p>The Treaſures buried un<g ref="char:EOLhyphen"/>der theſe heads, both for War, Peace and Pleaſure, being inexhauſtible; I be<g ref="char:EOLhyphen"/>ſeech you pardon me if I ſay ſo; it ſeems a Vanity, but comprehends a Truth; ſince no good Spring but becomes the more plentiful by how much more it is drawn; and the Spinner to weave his web is never ſtinted, but further inforc'd.</p>
+            <pb facs="tcp:101583:10"/>
+            <p> The more then that you ſhall be pleaſed to make uſe of my Inventions, the more Inventive ſhall you ever find me, one Invention begetting ſtill another, and more and more improving my ability to ſerve my King and you; and as to my heartineſs there<g ref="char:EOLhyphen"/>in there needs no addition, nor to my readineſs a ſpur. And therefore (my Lords and Gentlemen) be pleaſed to be<g ref="char:EOLhyphen"/>gin, and deſiſt not from com<g ref="char:EOLhyphen"/>manding me till I flag in my obedience and endeavours to ſerve my King and Country:</p>
+            <q>
+               <l>For certainly you'l find me breathleſs firſt t' expire,</l>
+               <l>Before my hands grow wea<g ref="char:EOLhyphen"/>ry, or my legs do tire.</l>
+            </q>
+            <p>Yet abſtracting from any Intereſt of my own, but as a
+<pb facs="tcp:101583:10"/> Fellow-Subject and Compa<g ref="char:EOLhyphen"/>triot will I ever labour in the Vineyard, moſt heartily and readily obeying the leaſt ſum<g ref="char:EOLhyphen"/>mons from you, by putting faithfully in execution, what your Judgments ſhall think fit to pitch upon amongſt this Century of Experiences, perhaps dearly purchaſed by me, but now frankly and <hi>gra<g ref="char:EOLhyphen"/>tis</hi> offered to you. Since my heart (methinks) cannot be ſatisfied in ſerving my King and Country, if it ſhould coſt them any thing; As I con<g ref="char:EOLhyphen"/>feſs when I had the honour to be neare ſo obliging a Maſter as His late Majeſty of happy memory, who never refuſed me his Ear to any reaſonable motion: And as for unreaſo<g ref="char:EOLhyphen"/>nable ones, or ſuch as were
+<pb facs="tcp:101583:11"/> not fitting for him to grant, I would rather to have dyed a thouſand deaths, then ever to have made any one unto him.</p>
+            <p>Yet whatever I was ſo happy as to obtain for any deſerving Perſon, my Pains, Breath and Intereſt imployed therein ſatisfied me not, un<g ref="char:EOLhyphen"/>leſs I likewiſe ſatisfied the Fees; but that was in my Golden Age.</p>
+            <p>And even now, though my ability and means are ſhorten<g ref="char:EOLhyphen"/>ed, the world knows why my heart remains ſtill the ſame; and be you pleaſed (my Lords and Gentlemen) to reſt moſt aſſured, that the very compla<g ref="char:EOLhyphen"/>cency that I ſhall take in the executing your Commands ſhall be unto me a ſufficient and an abundantly-ſatisfacto<g ref="char:EOLhyphen"/>ry reward.</p>
+            <pb facs="tcp:101583:11"/>
+            <p> Vouchſafe therefore to di<g ref="char:EOLhyphen"/>ſpoſe freely of me, and what<g ref="char:EOLhyphen"/>ever lieth in my power to perform; firſt, in order to His Majeſty's ſervice; ſe<g ref="char:EOLhyphen"/>condly, for the good and ad<g ref="char:EOLhyphen"/>vantage of the Kingdom; thirdly, to all your ſatisfacti<g ref="char:EOLhyphen"/>ons, for particular profit and pleaſure to your individual ſelves, profeſsing that in all and each of the three reſpects I will ever demean my ſelf as it beſt becomes,</p>
+            <closer>
+               <salute>My Lords and Gentlemen,</salute>
+               <signed>Your moſt paſsionately-bent Fellow-Subject in His Majeſty's ſervice, Com<g ref="char:EOLhyphen"/>patriot for the publick good and advantage, and a moſt humble Servant to all and every of you, <hi>WORCESTER.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:101583:12"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:101583:12"/>
+            <head>A CENTURY OF THE Names and Scantlings of Inventions by me already practiſed.</head>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <seg rend="decorInit">S</seg>Everal ſorts of Seals, ſome ſhewing by ſcrues, others by gages, faſtening or un<g ref="char:EOLhyphen"/>faſtening all the marks at once; others by ad<g ref="char:EOLhyphen"/>ditional
+<pb n="2" facs="tcp:101583:13"/> points and ima<g ref="char:EOLhyphen"/>ginary places, propor<g ref="char:EOLhyphen"/>tionable to ordinary Eſ<g ref="char:EOLhyphen"/>cocheons and Seals at Arms, each way pal<g ref="char:EOLhyphen"/>pably and punctually ſetting down (yet pri<g ref="char:EOLhyphen"/>vate from all others, but the Owner, and by his aſſent) the day of the Moneth, the day of the Week, the Moneth of the Year, the Year of our Lord, the Names of the Witneſſes, and the individual place where any thing was ſealed, though in ten thouſand
+<pb n="3" facs="tcp:101583:13"/> ſeveral places, together with the very number of lines contained in a Contract, whereby fal<g ref="char:EOLhyphen"/>ſification may be diſco<g ref="char:EOLhyphen"/>vered, and manifeſtly proved, being upon good grounds ſuſpected.</p>
+            <p>Upon any of theſe Seals a man may keep Accompts of Receipts and Disburſments from one Farthing to an hundred millions, pun<g ref="char:EOLhyphen"/>ctually ſhewing each pound, ſhilling, peny or farthing.</p>
+            <p>By theſe ſeals like<g ref="char:EOLhyphen"/>wiſe
+<pb n="4" facs="tcp:101583:14"/> any Letter, though written but in Engliſh, may be read and under<g ref="char:EOLhyphen"/>ſtood in eight ſeveral languages, and in Eng<g ref="char:EOLhyphen"/>liſh it ſelf to clean con<g ref="char:EOLhyphen"/>trary and different ſenſe, unknown to any but the Correſpondent, and not to be read or un<g ref="char:EOLhyphen"/>derſtood by him nei<g ref="char:EOLhyphen"/>ther, if opened before it arrive unto him; ſo that neither Threats, nor hopes of Reward, can make him reveal the ſecret, the Letter ha<g ref="char:EOLhyphen"/>ving been intercepted,
+<pb n="5" facs="tcp:101583:14"/> and firſt opened by the Enemy.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> How ten thouſand Perſons may uſe theſe ſeals to all and every of the purpoſes aforeſaid, and yet keep their ſe<g ref="char:EOLhyphen"/>crets from any but whom they pleaſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> A Cypher and Cha<g ref="char:EOLhyphen"/>racter ſo contrived, that one line, without re<g ref="char:EOLhyphen"/>turns and circumflexes, ſtands for each and eve<g ref="char:EOLhyphen"/>ry of the 24. letters; and as ready to be made for the one letter as the o<g ref="char:EOLhyphen"/>ther.</p>
+            <pb n="6" facs="tcp:101583:15"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> This Invention refi<g ref="char:EOLhyphen"/>ned, and ſo abreviated that a point onely ſhew<g ref="char:EOLhyphen"/>eth diſtinctly and ſigni<g ref="char:EOLhyphen"/>ficantly any of the 24. letters; and theſe very points to be made with two pens, ſo that no time will be loſt, but as one finger riſeth the o<g ref="char:EOLhyphen"/>ther may make the fol<g ref="char:EOLhyphen"/>lowing letter, never clogging the memory with ſeveral figures for words, and combinati<g ref="char:EOLhyphen"/>on of letters; which with eaſe, and void of confuſion, are thus ſpee<g ref="char:EOLhyphen"/>dily
+<pb n="7" facs="tcp:101583:15"/> and punctually, let<g ref="char:EOLhyphen"/>ter for letter, ſet down by naked and not mul<g ref="char:EOLhyphen"/>tiplied points. And no<g ref="char:EOLhyphen"/>thing can be leſs then a point, the Mathemati<g ref="char:EOLhyphen"/>cal definition of being <hi>Cujus pars nulla.</hi> And of a motion no ſwifter imaginable then <hi>Semi<g ref="char:EOLhyphen"/>quavers</hi> or <hi>Releſhes,</hi> yet applicable to this man<g ref="char:EOLhyphen"/>ner of writing.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> A way by a Circular motion, either along a Rule or Ring-wiſe, to vary any Alphabet, even this of Points, ſo that
+<pb n="8" facs="tcp:101583:16"/> the ſelf-ſame Point in<g ref="char:EOLhyphen"/>dividually placed, with<g ref="char:EOLhyphen"/>out the leaſt additional mark or variation of place, ſhall ſtand for all the 24. letters, and not for the ſame letter twice in ten ſheets writing; yet as eaſily and certain<g ref="char:EOLhyphen"/>ly read and known, as if it ſtood but for one and the ſelf-ſame letter con<g ref="char:EOLhyphen"/>ſtantly ſignified.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> How at a Window, as far as Eye can diſco<g ref="char:EOLhyphen"/>ver black from white, a man may hold diſcourſe with his Correſpondent,
+<pb n="9" facs="tcp:101583:16"/> without noiſe made or notice taken; being, ac<g ref="char:EOLhyphen"/>cording to occaſion gi<g ref="char:EOLhyphen"/>ven and means afforded, <hi>Exre natâ,</hi> and no need of Proviſion before<g ref="char:EOLhyphen"/>hand; though much better if foreſeen, and means prepared for it, and a premeditated courſe taken by mutual conſent of parties.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> A way to do it by night as well as by day, though as dark as Pitch is black.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/> A way how to level and ſhoot Cannon by
+<pb n="10" facs="tcp:101583:17"/> night as well as by day, and as directly; with<g ref="char:EOLhyphen"/>out a platform or mea<g ref="char:EOLhyphen"/>ſures taken by day, yet by a plain and infallible rule.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="9"/> An Engine, portable in ones Pocket, which may be carried and fa<g ref="char:EOLhyphen"/>ſtened on the inſide of the greateſt Ship, <hi>Tan<g ref="char:EOLhyphen"/>quam aliud agens,</hi> and at any appointed minute, though a week after, ei<g ref="char:EOLhyphen"/>ther of day or night, it ſhall irrecoverably ſink that Ship.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10"/> A way from a mile
+<pb n="11" facs="tcp:101583:17"/> off to dive and faſten a like Engine to any Ship, ſo as it may punctually work the ſame effect ei<g ref="char:EOLhyphen"/>ther for time or execu<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="11"/> How to prevent and ſafeguard any Ship from ſuch an attempt by day or night.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="12"/> A way to make a Ship not poſsible to be ſunk though ſhot an hundred times betwixt wind and water by Can<g ref="char:EOLhyphen"/>non, and ſhould loſe a whole Plank, yet in half an hours time ſhould be
+<pb n="12" facs="tcp:101583:18"/> made as fit to ſail as be<g ref="char:EOLhyphen"/>fore.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="13"/> How to make ſuch falſe Decks as in a mo<g ref="char:EOLhyphen"/>ment ſhould kill and take priſoners as many as ſhould board the Ship, without blowing the Decks up, or de<g ref="char:EOLhyphen"/>ſtroying them from be<g ref="char:EOLhyphen"/>ing reducible, and in a quarrer of an hours time ſhould recover their for<g ref="char:EOLhyphen"/>mer ſhape, and to be made fit for any im<g ref="char:EOLhyphen"/>ployment without diſ<g ref="char:EOLhyphen"/>covering the ſecret.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="14"/> How to bring a force
+<pb n="13" facs="tcp:101583:18"/> to weigh up an Anchor, or to do any forcible ex<g ref="char:EOLhyphen"/>ploit in the narroweſt or loweſt room in any Ship, where few hands ſhall do the work of many; and many hands applicable to the ſame force, ſome ſtanding, others ſitting, and by virtue of their ſeveral helps a great force aug<g ref="char:EOLhyphen"/>mented in little room, as effectual as if there were ſufficient ſpace to go about with an Axle-tree, and work far from the Centre.</p>
+            <pb n="14" facs="tcp:101583:19"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="15"/> A way how to make a Boat work it ſelf a<g ref="char:EOLhyphen"/>gainſt Wind and Tide, yea both without the help of man or beaſt; yet ſo that the Wind or Tide, though directly oppoſite, ſhall force the Ship or Boat againſt it ſelf; and in no point of the Compaſs, but it ſhall be as effectual, as if the wind were in the Pupp, or the ſtream actually with the courſe it is to ſteer, according to which the Oars ſhall row, and neceſſary mo<g ref="char:EOLhyphen"/>tions
+<pb n="15" facs="tcp:101583:19"/> work and move towards the deſired Port or point of the Com<g ref="char:EOLhyphen"/>paſs.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="16"/> How to make a Sea-caſtle or Fortification Cannon-proof, and ca<g ref="char:EOLhyphen"/>pable of a thouſand men, yet ſailable at plea<g ref="char:EOLhyphen"/>ſure to defend a paſſage, or in an hours time to divide it ſelf into three Ships as fit and trimm'd to ſail as before: And even whileſt it is a Fort or Caſtle they ſhall be unanimouſly ſteered, and effectually be driven
+<pb n="16" facs="tcp:101583:20"/> by an indifferent ſtrong wind.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="17"/> How to make upon the <hi>Thames</hi> a floting Garden of pleaſure, with Trees, Flowers, Ban<g ref="char:EOLhyphen"/>quetting-Houſes, and Fountains, Stews for all kind of fiſhes, a reſerve for Snow to keep Wine in, delicate Bathing-places, and the like; with muſick made with Mills: and all in the middeſt of the ſtream, where it is moſt rapid.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="18"/> An Artificial Foun<g ref="char:EOLhyphen"/>tain to be turned like an
+<pb n="17" facs="tcp:101583:20"/> Hour-glaſs by a child in the twinkling of an eye, it holding great quanti<g ref="char:EOLhyphen"/>ty of water, and of force ſufficient to make ſnow, ice and thunder, with a chirping and ſinging of birds, and ſhewing of ſeveral ſhapes and ef<g ref="char:EOLhyphen"/>fects uſual to Fountains of pleaſure.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="19"/> A little Engine with<g ref="char:EOLhyphen"/>in a Coach, whereby a child may ſtop it, and ſecure all perſons with<g ref="char:EOLhyphen"/>in it, and the Coach<g ref="char:EOLhyphen"/>man himſelf, though the horſes be never ſo
+<pb n="18" facs="tcp:101583:21"/> unruly in a full career; a child being ſufficiently capable to looſen them in what poſture ſoever they ſhould have put themſelves, turning ne<g ref="char:EOLhyphen"/>ver ſo ſhort; for a child can do it in the twink<g ref="char:EOLhyphen"/>ling of an eye.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="20"/> How to bring up wa<g ref="char:EOLhyphen"/>ter Balance-wiſe, ſo that as little weight or force as will turn a Balance will be onely needful, more then the weight of the water within the Buckets, which counter<g ref="char:EOLhyphen"/>poiſed emty themſelves
+<pb n="19" facs="tcp:101583:21"/> one into the other, the uppermoſt yielding its water (how great a quantity ſoever it holds) at the ſelf-ſame time the lowermoſt taketh it in, though it be an hundred fathom high.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="21"/> How to raiſe water conſtantly with two Buckets onely day and night, without any o<g ref="char:EOLhyphen"/>ther force then its own motion, uſing not ſo much as any force, wheel or ſucker, nor more pul<g ref="char:EOLhyphen"/>lies then one, on which the cord or chain rolleth
+<pb n="20" facs="tcp:101583:22"/> with a Bucket faſtened at each end. This, I con<g ref="char:EOLhyphen"/>feſs, I have ſeen and learned of the great Ma<g ref="char:EOLhyphen"/>thematician <hi>Claudius</hi> his ſtudies at <hi>Rome,</hi> he ha<g ref="char:EOLhyphen"/>ving made a Preſent thereof unto a Cardi<g ref="char:EOLhyphen"/>nal; and I deſire not to own any other mens In<g ref="char:EOLhyphen"/>ventions, but if I ſet down any, to nominate likewiſe the Inventor.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="22"/> To make a River in a Garden to ebbe and flow conſtantly, though twenty foot over, with a childs force, in ſome
+<pb n="21" facs="tcp:101583:22"/> private room or place out of ſight, and a com<g ref="char:EOLhyphen"/>petent diſtance from it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="23"/> To ſet a Clock in a Caſtle, the water filling the Trenches about it; it ſhall ſhew by ebbing and flowing the Hours, Minutes and Seconds, and all the comprehen<g ref="char:EOLhyphen"/>ſible motions of the Heavens, and Counter<g ref="char:EOLhyphen"/>libation of the Earth, according to <hi>Copernicus.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="24"/> How to increaſe the ſtrength of a Spring to ſuch an height, as to ſhoot Bumbaſſes and
+<pb n="22" facs="tcp:101583:23"/> Bullets of an hundred pound weight a Steeple-height, and a quarter of a mile off and more, Stone-bow-wiſe, admi<g ref="char:EOLhyphen"/>rable for Fire-works and aſtoniſhing of beſieged Cities, when without warning given by noiſe they find themſelves ſo forcibly and dangerouſ<g ref="char:EOLhyphen"/>ly ſurpriſed.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="25"/> How to make a Weight that cannot take up an hundred pound, and yet ſhall take up two hundred pound, and at the ſelf-ſame di<g ref="char:EOLhyphen"/>ſtance
+<pb n="23" facs="tcp:101583:23"/> from the Centre; and ſo proportionably to millions of pounds.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="26"/> To raiſe weight as well and as forcibly with the drawing back of the Lever, as with the thruſting it for<g ref="char:EOLhyphen"/>wards; and by that means to loſe no time in motion or ſtrength. This I ſaw in the <hi>Arcenal</hi> at <hi>Venice.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="27"/> A way to remove to and fro huge weights with a moſt inconſider<g ref="char:EOLhyphen"/>able ſtrength from place to place. For example,
+<pb n="24" facs="tcp:101583:24"/> Ten Tunne with ten pounds, and leſs; the ſaid ten pounds not to fall lower then it makes the ten Tunne to ad<g ref="char:EOLhyphen"/>vance or retreat upon a Level.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="28"/> A Bridge portable in a Cart with ſix horſes, which in a few hours time may be placed over a River half a mile broad, whereon with much expedition may be tranſported Horſe, Foot and Cannon.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="29"/> A portable Fortifica<g ref="char:EOLhyphen"/>tion able to contain five
+<pb n="25" facs="tcp:101583:24"/> hundred fighting men, and yet in ſix hours time may be ſet up, and made Cannon-proof, upon the ſide of a River or Paſs, with Cannon mounted upon it, and as complete as a regular Fortificati<g ref="char:EOLhyphen"/>on, with Half-moons and Counter-ſcarps.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="30"/> A way in one nights time to raiſe a Bulwork twenty or thirty foot high, Cannon-proof, and Cannon mounted upon it, with men to overlook, command and batter a Towne; for
+<pb n="26" facs="tcp:101583:25"/> though it contain but four Pieces, they ſhall be able to diſcharge two hundred Bullets each hour.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="31"/> A way how ſafely and ſpeedily to make an approach to a Caſtle or Town-wall, and over the very Ditch at Noon-day.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="32"/> How to compoſe an univerſal Character me<g ref="char:EOLhyphen"/>thodical and eaſie to be written, yet intelligible in any Language; ſo that if an Engliſh-man write it in Engliſh, a
+<pb n="27" facs="tcp:101583:25"/> French-man, Italian, Spaniard, Iriſh, Welſh, being Scholars; yea, Grecian or Hebritian ſhall as perfectly under<g ref="char:EOLhyphen"/>ſtand it in their owne Tongue, as if they were perfect Engliſh, diſtin<g ref="char:EOLhyphen"/>guiſhing the Verbs from Nouns, the Numbers, Tenſes and Caſes as pro<g ref="char:EOLhyphen"/>perly expreſſed in their own Language as it was written in Engliſh.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="33"/> To write with a Nee<g ref="char:EOLhyphen"/>dle and Thred, white, or any colour upon white, or any other co<g ref="char:EOLhyphen"/>lour,
+<pb n="28" facs="tcp:101583:26"/> ſo that one ſtitch ſhall ſignificantly ſhew any letter, and as readily and as eaſily ſhew the one letter as the other, and fit for any Lan<g ref="char:EOLhyphen"/>guage.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="34"/> To write by a knot<g ref="char:EOLhyphen"/>ted Silk ſtring, ſo that every knot ſhall ſignifie any letter with Comma, Full point, or Interro<g ref="char:EOLhyphen"/>gation, and as legible as with Pen and Ink upon white Paper.</p>
+            <l>
+               <milestone type="tcpmilestone" unit="unspecified" n="35"/> The like by the fringe of Gloves.</l>
+            <l>
+               <milestone type="tcpmilestone" unit="unspecified" n="36"/> By ſtringing of Brace<g ref="char:EOLhyphen"/>lets.</l>
+            <pb n="29" facs="tcp:101583:26"/>
+            <l>
+               <milestone type="tcpmilestone" unit="unspecified" n="37"/> By Pinck'd Gloves.</l>
+            <l>
+               <milestone type="tcpmilestone" unit="unspecified" n="38"/> By holes in the bot<g ref="char:EOLhyphen"/>tom of a Sieve.</l>
+            <l>
+               <milestone type="tcpmilestone" unit="unspecified" n="39"/> By a Lattin or Plate Lanthorn.</l>
+            <l>
+               <milestone type="tcpmilestone" unit="unspecified" n="40"/> By the Smell.</l>
+            <l>
+               <milestone type="tcpmilestone" unit="unspecified" n="41"/> By the Taſte.</l>
+            <l>
+               <milestone type="tcpmilestone" unit="unspecified" n="42"/> By the Touch.</l>
+            <p>By theſe three Senſes as perfectly, diſtinctly and unconfuſedly, yea as readily as by the ſight.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="43"/> How to vary each of theſe, ſo that ten thou<g ref="char:EOLhyphen"/>ſand may know them, and yet keep the under<g ref="char:EOLhyphen"/>ſtanding part from any but their Correſpon<g ref="char:EOLhyphen"/>dent.</p>
+            <pb n="30" facs="tcp:101583:27"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="44"/> To make a Key of a Chamber door, which to your ſight hath its Wards and Roſe-pipe but Paper-thick, and yet at pleaſure in a minute of an hour ſhall become a perfect Piſtol, capable to ſhoot through a Breſt-plate commonly of Carabine-proof, with Prime, Powder and Fire<g ref="char:EOLhyphen"/>lock, undiſcoverable in a ſtrangers hand.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="45"/> How to light a Fire and a Candle at what hour of the night one awaketh, without riſing
+<pb n="31" facs="tcp:101583:27"/> or putting ones hand out of the bed. And the ſame thing becomes a ſerviceable Piſtol at plea<g ref="char:EOLhyphen"/>ſure; yet by a ſtranger, not knowing the ſecret, ſeemeth but a dexterous Tinder-box.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="46"/> How to make an ar<g ref="char:EOLhyphen"/>tificial Bird to fly which way and as long as one pleaſeth, by or againſt the wind, ſometimes chirping, other times hovering, ſtill tending the way it is deſigned for.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="47"/> To make a Ball of a<g ref="char:EOLhyphen"/>ny
+<pb n="30" facs="tcp:101583:28"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="31" facs="tcp:101583:28"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="32" facs="tcp:101583:29"/> metal, which thrown into a Pool or Pail of water ſhall preſently riſe from the bottom, and conſtantly ſhew by the <hi>ſuperficies</hi> of the water the hour of the day or night, never riſing more out of the water then juſt to the minute it ſheweth of each quarter of the hour; and if by fo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce kept under water, yet the time is not loſt, but recovered as ſoon as it is permitted to riſe to the <hi>ſuperficies</hi> of the wa<g ref="char:EOLhyphen"/>ter.</p>
+            <pb n="33" facs="tcp:101583:29"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="48"/> A ſcrued Aſcent, in<g ref="char:EOLhyphen"/>ſtead of Stairs, with fit landing places to the beſt Chambers of each Story, with Back-ſtairs within the Noell of it, convenient for Servants to paſs up and down to the inward Rooms of them unſeen and pri<g ref="char:EOLhyphen"/>vate.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="49"/> A portable Engine, in way of a Tobacco-tongs, whereby a man may get over a wall, or get up again being come down, finding the coaſt proving unſecure unto him.</p>
+            <pb n="34" facs="tcp:101583:30"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="50"/> A complete light por<g ref="char:EOLhyphen"/>table Ladder, which ta<g ref="char:EOLhyphen"/>ken out of ones Pocket, may be by himſelf fa<g ref="char:EOLhyphen"/>ſtened an hundred foot high to get up by from the ground.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="51"/> A Rule of Gradation, which with eaſe and method reduceth all things to a private cor<g ref="char:EOLhyphen"/>reſpondence, moſt uſe<g ref="char:EOLhyphen"/>ful for ſecret Intelli<g ref="char:EOLhyphen"/>gence.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="52"/> How to ſignifie words and a perfect Diſcourſe by jangling of Bells of any Pariſh-Church, or
+<pb n="35" facs="tcp:101583:30"/> by any Muſical Inſtru<g ref="char:EOLhyphen"/>ment within hearing, in a ſeeming way of tuning it; or of an unskilful beginner.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="53"/> A way how to make hollow and cover a Wa<g ref="char:EOLhyphen"/>ter-ſcrue as big and as long as one pleaſeth in an eaſie and cheap way.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="54"/> How to make a Wa<g ref="char:EOLhyphen"/>ter-ſcrue tite, and yet tranſparent, and free from breaking; but ſo clear, that one may pal<g ref="char:EOLhyphen"/>pably ſee the water or any heavy thing how and why it is mounted by turning.</p>
+            <pb n="36" facs="tcp:101583:31"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="55"/> A double Water-ſcrue, the innermoſt to mount the water, and the outermoſt for it to deſcend more in num<g ref="char:EOLhyphen"/>ber of threds, and con<g ref="char:EOLhyphen"/>ſequently in quantity of water, though much ſhorter then the inner<g ref="char:EOLhyphen"/>moſt ſcrue, by which the water aſcendeth, a moſt extraordinary help for the turning of the ſcrue to make the wa<g ref="char:EOLhyphen"/>ter riſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="56"/> To provide and make that all the Weights of the deſcending ſide of a
+<pb n="37" facs="tcp:101583:31"/> Wheel ſhall be perpetu<g ref="char:EOLhyphen"/>ally further from the Centre, then thoſe of the mounting ſide, and yet equal in number and heft to the one ſide as the other. A moſt incredible thing, if not ſeen, but tried before the late King (of bleſſed memory) in the <hi>Tower,</hi> by my directions, two Extraordinary Embaſſa<g ref="char:EOLhyphen"/>dors accompanying His Majeſty, and the Duke of <hi>Richmond</hi> and Duke <hi>Hamilton,</hi> with moſt of the Court, attending
+<pb n="38" facs="tcp:101583:32"/> Him. The Wheel was 14. Foot over, and 40. Weights of 50. pounds apiece. Sir <hi>William Bal<g ref="char:EOLhyphen"/>fore,</hi> then Lieutenant of the <hi>Tower,</hi> can juſtifie it, with ſeveral others. They all ſaw, that no ſooner theſe great Weights paſſed the Dia<g ref="char:EOLhyphen"/>meter-line of the lower ſide, but they hung a foot further from the Centre, nor no ſooner paſſed the Diameter-line of the upper ſide, but they hung a foot nearer. Be pleaſed to judge the conſequence.</p>
+            <pb n="39" facs="tcp:101583:32"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="57"/> An ebbing and flow<g ref="char:EOLhyphen"/>ing Water-work in two Veſſels, into either of which the water ſtand<g ref="char:EOLhyphen"/>ing at a level, if a Globe be caſt in, inſtead of ri<g ref="char:EOLhyphen"/>ſing it preſently ebbeth, and ſo remaineth untill a like Globe be caſt into the other Veſſel, which the water is no ſooner ſenſible of, but that Veſſel preſently ebbeth, and the other floweth, and ſo continueth eb<g ref="char:EOLhyphen"/>bing and flowing untill one or both of the Globes be taken out,
+<pb n="40" facs="tcp:101583:33"/> working ſome little ef<g ref="char:EOLhyphen"/>fect beſides its own mo<g ref="char:EOLhyphen"/>tion, without the help of any man within ſight or hearing: But if ei<g ref="char:EOLhyphen"/>ther of the Globes be ta<g ref="char:EOLhyphen"/>ken out with ever ſo ſwift or eaſie a motion, at the very inſtant the ebbing and flowing cea<g ref="char:EOLhyphen"/>ſeth; for if during the ebbing you take out the Globe, the water of that Veſſel preſently return<g ref="char:EOLhyphen"/>eth to flow, and never ebbeth after, untill the Globe be returned into it, and then the motion
+<pb n="41" facs="tcp:101583:33"/> beginneth as before.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="58"/> How to make a Piſtol to diſcharge a dozen times with one loading, and without ſo much as once new Priming re<g ref="char:EOLhyphen"/>quiſite, or to change it out of one hand into the other, or ſtop ones horſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="59"/> Another way as faſt and effectual, but more proper for Carabines.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="60"/> A way with a Flask appropriated unto it, which will furniſh ei<g ref="char:EOLhyphen"/>ther Piſtol or Carabine with a dozen Charges in three minutes time,
+<pb n="42" facs="tcp:101583:34"/> to do the whole execu<g ref="char:EOLhyphen"/>tion of a dozen ſhots, as ſoon as one pleaſeth, pro<g ref="char:EOLhyphen"/>portionably.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="61"/> A third way, and par<g ref="char:EOLhyphen"/>ticular for Muſquets, without taking them from their Reſts to charge or prime, to a like execution, and as faſt as the Flask, the Muſquet containing but one Charge at a time.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="62"/> A way for a Harque<g ref="char:EOLhyphen"/>buſs, a Crock, or Ship<g ref="char:EOLhyphen"/>muſquet, ſix upon a Carriage, ſhooting with ſuch expedition, as with<g ref="char:EOLhyphen"/>out
+<pb n="43" facs="tcp:101583:34"/> danger one may charge, level, and diſ<g ref="char:EOLhyphen"/>charge them ſixty times in a minute of an hour, two or three together.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="63"/> A ſixth way, moſt ex<g ref="char:EOLhyphen"/>cellent for Sakers, dif<g ref="char:EOLhyphen"/>fering from the other, yet as ſwift.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="64"/> A ſeventh, tried and approved before the late King (of ever bleſſed memory) and an hun<g ref="char:EOLhyphen"/>dred Lords and Com<g ref="char:EOLhyphen"/>mons, in a Cannon of 8. inches half quarter, to ſhoot Bullets of 64. pounds weight, and 24.
+<pb n="44" facs="tcp:101583:35"/> pounds of pouder, twen<g ref="char:EOLhyphen"/>ty times in ſix minutes; ſo clear from danger, that after all were diſ<g ref="char:EOLhyphen"/>charged, a Pound of Butter did not melt be<g ref="char:EOLhyphen"/>ing laid upon the Can<g ref="char:EOLhyphen"/>non-britch, nor the green Oile diſcoloured that was firſt anointed and uſed between the Barrel thereof, and the Engine, having never in it, nor within ſix foot, but one charge at a time.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="65"/> A way that one man in the Cabin may go<g ref="char:EOLhyphen"/>vern the whole ſide of
+<pb n="45" facs="tcp:101583:35"/> Ship-muſquets, to the number (if need require) of 2. or 3000. ſhots.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="66"/> A way that againſt ſeveral Advenues to a Fort or Caſtle, one man may charge fifty Can<g ref="char:EOLhyphen"/>nons playing, and ſtop<g ref="char:EOLhyphen"/>ping when he pleaſeth, though out of ſight of the Cannon.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="67"/> A rare way likewiſe for Muſquettoons faſt<g ref="char:EOLhyphen"/>ned to the Pummel of of the Saddle, ſo that a Common Trooper can<g ref="char:EOLhyphen"/>not miſſe to charge them, with twenty or
+<pb n="46" facs="tcp:101583:36"/> thirty Bullets at a time, even in full career.</p>
+            <p>
+               <hi>When firſt I gave my thoughts to make Guns ſhoot often, I thought there had been but one onely exquiſite way inventible, yet by ſeveral trials and much charge I have perfectly tried all theſe.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="68"/> An admirable and moſt forcible way to drive up water by fire, not by drawing or ſuck<g ref="char:EOLhyphen"/>ing it upwards, for that muſt be as the Philoſo<g ref="char:EOLhyphen"/>pher calleth it, <hi>Intra</hi>
+               <pb n="47" facs="tcp:101583:36"/> 
+               <hi>ſphaeram activitatis,</hi> which is but at ſuch a diſtance. But this way hath no Bounder, if the Veſſels be ſtrong enough; for I have taken a piece of a whole Cannon, whereof the end was burſt, and filled it three quarters full of water, ſtopping and ſcruing up the bro<g ref="char:EOLhyphen"/>ken end; as alſo the Touch-hole; and ma<g ref="char:EOLhyphen"/>king a conſtant fire un<g ref="char:EOLhyphen"/>der it, within 24. hours it burſt and made a great crack: So that ha<g ref="char:EOLhyphen"/>ving a way to make
+<pb n="48" facs="tcp:101583:37"/> my Veſſels, ſo that they are ſtrengthened by the force within them, and the one to fill after the other. I have ſeen the water run like a con<g ref="char:EOLhyphen"/>ſtant Fountaine-ſtream forty foot high; one Veſ<g ref="char:EOLhyphen"/>ſel of water rarified by fire driveth up forty of cold water. And a man that tends the work is but to turn two Cocks, that one Veſſel of water being conſumed, ano<g ref="char:EOLhyphen"/>ther begins to force and re-fill with cold water, and ſo ſucceſsively, the
+<pb n="49" facs="tcp:101583:37"/> fire being tended and kept conſtant, which the ſelf-ſame Perſon may likewiſe abundant<g ref="char:EOLhyphen"/>ly perform in the inte<g ref="char:EOLhyphen"/>rim between the neceſsi<g ref="char:EOLhyphen"/>ty of turning the ſaid Cocks.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="69"/> A way how a little triangle ſcrued Key, not weighing a Shilling, ſhall be capable and ſtrong enough to bolt and unbolt round about a great Cheſt an hun<g ref="char:EOLhyphen"/>dred Bolts through fifty Staples, two in each, with a direct contrary
+<pb n="50" facs="tcp:101583:38"/> motion, and as many more from both ſides and ends, and at the ſelf<g ref="char:EOLhyphen"/>ſame time ſhall faſten it to the place beyond a mans natural ſtrength to take it away: and in one and the ſame turn both locketh and open<g ref="char:EOLhyphen"/>eth it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="70"/> A Key with a Roſe-turning pipe, and two Roſes pierced through endwiſe the Bit thereof, with ſeveral hand ſomly-contriv'd Wards, which may likewiſe do the ſame effects.</p>
+            <pb n="51" facs="tcp:101583:38"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="71"/> A Key perfectly ſquare, with a Scrue turning within it, and more con<g ref="char:EOLhyphen"/>ceited then any of the reſt, and no heavier then the triangle-ſcrued Key, and doth the ſame effects.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="72"/> An Eſcocheon to be placed before any of theſe Locks with theſe properties.</p>
+            <p n="1">1. The owner (though a woman) may with her delicate hand va<g ref="char:EOLhyphen"/>ry the wayes of co<g ref="char:EOLhyphen"/>ming to open the Lock ten millions of
+<pb n="52" facs="tcp:101583:39"/> times, beyond the knowledge of the Smith that made it, or of me who invent<g ref="char:EOLhyphen"/>ed it.</p>
+            <p n="2">2. If a ſtranger open it, it ſetteth an Alarm a-going, which the ſtranger cannot ſtop from running out; and beſides, though none ſhould be with<g ref="char:EOLhyphen"/>in hearing, yet it catcheth his hand, as a Trap doth a Fox; and though far from maiming him, yet it leaveth ſuch a mark
+<pb n="53" facs="tcp:101583:39"/> behind it, as will diſ<g ref="char:EOLhyphen"/>cover him if ſuſpect<g ref="char:EOLhyphen"/>ed; the Eſcocheon or Lock plainly ſhew<g ref="char:EOLhyphen"/>ing what monies he hath taken out of the Box to a farthing, and how many times o<g ref="char:EOLhyphen"/>pened ſince the ow<g ref="char:EOLhyphen"/>ner had been in it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="73"/> A tranſmittible Galle<g ref="char:EOLhyphen"/>ry over any Ditch or Breach in a Town-wall, with a Blinde and Para<g ref="char:EOLhyphen"/>pit Cannon-proof.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="74"/> A Door, whereof the turning of a Key, with the help and motion of
+<pb n="54" facs="tcp:101583:40"/> the handle, makes the hinges to be of either ſide, and to open either inward or outward, as one is to enter or to go out, or to open in half.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="75"/> How a Tape or Rib<g ref="char:EOLhyphen"/>bon-weaver may ſet down a whole diſcourſe, without knowing a let<g ref="char:EOLhyphen"/>ter, or interweaving any thing ſuſpicious of other ſecret then a new-faſhi<g ref="char:EOLhyphen"/>oned Ribbon.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="76"/> How to write in the dark as ſtreight as by day or candle-light.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="77"/> How to make a man
+<pb n="55" facs="tcp:101583:40"/> to fly; which I have tri<g ref="char:EOLhyphen"/>ed with a little Boy of ten years old in a Barn, from one end to the o<g ref="char:EOLhyphen"/>ther, on an Hay-mow.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="78"/> A Watch to go con<g ref="char:EOLhyphen"/>ſtantly, and yet needs no other winding from the firſt ſetting on the Cord or Chain, unleſs it be broken, requiring no o<g ref="char:EOLhyphen"/>ther care from one then to be now and then con<g ref="char:EOLhyphen"/>ſulted with concerning the hour of the day or night; and if it be laid by a week together, it will not erre much, but
+<pb n="56" facs="tcp:101583:41"/> the oftener looked up<g ref="char:EOLhyphen"/>on, the more exact it ſheweth the time of the day or night.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="79"/> A way to lock all the Boxes of a Cabinet, (though never ſo many) at one time, which were by particular Keys ap<g ref="char:EOLhyphen"/>propriated to each Lock opened ſeverally, and independent the one of the other, as much as concerneth the opening of them, and by theſe means cannot be left o<g ref="char:EOLhyphen"/>pened unawares.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="80"/> How to make a Pi<g ref="char:EOLhyphen"/>ſtol
+<pb n="57" facs="tcp:101583:41"/> Barrel no thicker then a Shilling, and yet able to endure a Muſ<g ref="char:EOLhyphen"/>quet proof of Powder and Bullet.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="81"/> A Combe-convey<g ref="char:EOLhyphen"/>ance carrying of Letters without ſuſpicion, the head being opened with a Needle-ſcrue drawing a Spring towards them; the Comb being made but after an uſual form carried in ones Pocket.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="82"/> A Knife-Spoon or Fork in an uſual por<g ref="char:EOLhyphen"/>table Caſe, may have the like conveyances in their handles.</p>
+            <pb n="58" facs="tcp:101583:42"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="83"/> A Raſping-mill for Harts-horn, whereby a child may do the work of half a dozen men, commonly taken up with that work.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="84"/> An Inſtrument where<g ref="char:EOLhyphen"/>by perſons ignorant in Arithmetick may per<g ref="char:EOLhyphen"/>fectly obſerve Numera<g ref="char:EOLhyphen"/>tions and Subſtractions of all Summes and Fra<g ref="char:EOLhyphen"/>ctions.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="85"/> A little Ball made in the ſhape of Plum or Pear, being dexterouſly conveyed or forced into a bodies mouth, ſhall
+<pb n="59" facs="tcp:101583:42"/> preſently ſhoot forth ſuch and ſo many Bolts of each ſide and at both ends, as without the owners Key can neither be opened or filed off, being made of tempered Steel, and as effectually locked as an Iron Cheſt.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="86"/> A Chair made <hi>a la<g ref="char:EOLhyphen"/>mode,</hi> and yet a ſtranger being perſwaded to ſit down in't, ſhall have immediately his armes and thighs lock'd up be<g ref="char:EOLhyphen"/>yond his own power to looſen them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="87"/> A Braſs Mold to caſt
+<pb n="60" facs="tcp:101583:43"/> Candles, in which a man may make 500. do<g ref="char:EOLhyphen"/>zen in a day, and adde an Ingredient to the tallow which will make it cheaper, and yet ſo that the Candles ſhall look whiter and laſt longer.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="88"/> How to make a Bra<g ref="char:EOLhyphen"/>zen or Stone-head, in the midſt of a great Field or Garden, ſo artificial and natural, that though a man ſpeak never ſo ſoft<g ref="char:EOLhyphen"/>ly, and even whiſpers into the ear thereof, it will preſently open its
+<pb n="61" facs="tcp:101583:43"/> mouth, and reſolve the Queſtion in French, La<g ref="char:EOLhyphen"/>tine, Welſh, Iriſh or Engliſh, in good terms uttering it out of his mouth, and then ſhut it untill the next Queſtion be asked.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="89"/> White Silk knotted in the fingers of a Pair of white Gloves, and ſo contrived without ſuſpi<g ref="char:EOLhyphen"/>cion, that playing at <hi>Primero</hi> at Cards, one may without clogging his memory keep rec<g ref="char:EOLhyphen"/>koning of all Sixes, Se<g ref="char:EOLhyphen"/>vens and Aces which he hath diſcarded.</p>
+            <pb n="62" facs="tcp:101583:44"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="90"/> A moſt dexterous Di<g ref="char:EOLhyphen"/>cing Box, with holes tranſparent, after the uſual faſhion, with a Device ſo dexterous, that with a knock of it a<g ref="char:EOLhyphen"/>gainſt the Table the four good Dice are faſtened, and it looſeneth four falſe Dice made fit for his purpoſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="91"/> An artificial Horſe, with Saddle and Capa<g ref="char:EOLhyphen"/>rizons fit for running at the Ring, on which a man being mounted, with his Lance in his hand, he can at plea<g ref="char:EOLhyphen"/>ſure
+<pb n="63" facs="tcp:101583:44"/> make him ſtart, and ſwiftly to run his career, uſing the decent poſture with <hi>bon grace,</hi> may take the Ring as handſomly, and running as ſwiftly as if he rode upon a Barbe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="92"/> A Scrue made like a Water-ſcrue, but the bottom made of Iron-plate Spade-wiſe, which at the ſide of a Boat emptieth the mud of a Pond, or raiſeth Gravel.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="93"/> An Engine whereby one man may take out of the water a Ship of
+<pb n="64" facs="tcp:101583:45"/> 500. Tun, ſo that it may be calked, trimmed and repaired without need of the uſual way of ſtocks, and as eaſily let it down again.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="94"/> A little Engine por<g ref="char:EOLhyphen"/>table in ones Pocket, which placed to any door, without any noiſe, but on crack, openeth any door or gate.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="95"/> A double Croſs-bow, neate, handſome and ſtrong, to ſhoot two Arrows, either together, or one after the other, ſo immediately that a
+<pb n="65" facs="tcp:101583:45"/> Deer cannot run two ſteps but, if he miſs of one Arrow, he may be reach'd with the other, whether the Deer run forward, ſideward, or ſtart backward.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="96"/> A way to make a Sea-bank ſo firm and Geo<g ref="char:EOLhyphen"/>metrically-ſtrong, that a ſtream can have no pow<g ref="char:EOLhyphen"/>er over it; excellent like<g ref="char:EOLhyphen"/>wiſe to ſave the Pillar of a Bridge, being far chea<g ref="char:EOLhyphen"/>per and ſtronger then Stone-walls.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="97"/> An Inſtrument where<g ref="char:EOLhyphen"/>by an ignorant perſon
+<pb n="66" facs="tcp:101583:46"/> may take any thing in Perſpective, as juſtly, and more then the skil<g ref="char:EOLhyphen"/>fulleſt Painter can do by his eye.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="98"/> An Engine ſo contri<g ref="char:EOLhyphen"/>ved, that working the <hi>Primum mobile</hi> forward or backward, upward or downward, circularly or corner-wiſe, to and fro, ſtreight, upright or downright, yet the pre<g ref="char:EOLhyphen"/>tended Operation conti<g ref="char:EOLhyphen"/>nueth, and advanceth none of the motions above-mentioned, hin<g ref="char:EOLhyphen"/>dering, much leſs ſtop<g ref="char:EOLhyphen"/>ping
+<pb n="67" facs="tcp:101583:46"/> the other; but una<g ref="char:EOLhyphen"/>nimouſly, and with har<g ref="char:EOLhyphen"/>mony agreeing they all augment and contribute ſtrength unto the in<g ref="char:EOLhyphen"/>tended work and opera<g ref="char:EOLhyphen"/>tion: And therefore I call this <hi>A Semi-omnipotent Engine,</hi> and do intend that a Model thereof be buried with me.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="99"/> How to make one pound weight to raiſe an hundred as high as one pound falleth, and yet the hundred pound deſcending doth what nothing leſs then one
+<pb n="68" facs="tcp:101583:47"/> hundred pound can ef<g ref="char:EOLhyphen"/>fect.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="100"/> Upon ſo potent a help as theſe two laſt menti<g ref="char:EOLhyphen"/>oned Inventions a Wa<g ref="char:EOLhyphen"/>terwork is by many years experience and la<g ref="char:EOLhyphen"/>bour ſo advantageouſly by me contrived, that a Childs force bringeth up an hundred foot high an incredible quantity of water, even two foot Diameter, ſo naturally, that the work will not be heard even into the next Room; and with ſo great eaſe and Geome<g ref="char:EOLhyphen"/>trical
+<pb n="69" facs="tcp:101583:47"/> Symmetry, that though it work day and night from one end of the year to the other, it will not require forty ſhillings reparation to the whole Engine, nor hinder ones day-work. And I may boldly call it <hi>The moſt ſtupendious Work in the whole world:</hi> not onely with little charge to drein all ſorts of Mines, and furniſh Ci<g ref="char:EOLhyphen"/>ties with water, though never ſo high ſeated, as well to keep them ſweet, running through ſeve<g ref="char:EOLhyphen"/>ral
+<pb n="70" facs="tcp:101583:48"/> ſtreets, and ſo per<g ref="char:EOLhyphen"/>forming the work of Scavingers, as well as furniſhing the Inhabi<g ref="char:EOLhyphen"/>tants with ſufficient wa<g ref="char:EOLhyphen"/>ter for their private oc<g ref="char:EOLhyphen"/>caſions; but likewiſe ſupplying Rivers with ſufficient to maintaine and make them por<g ref="char:EOLhyphen"/>table from Towne to Towne, and for the bet<g ref="char:EOLhyphen"/>tering of Lands all the way it runs; with ma<g ref="char:EOLhyphen"/>ny more advantageous, and yet greater effects of Profit, Admiration and Conſequence. So
+<pb n="71" facs="tcp:101583:48"/> that deſervedly I deem this Invention to crown my Labours, to reward my Expences, and make my Thoughts acquieſce in way of further Inven<g ref="char:EOLhyphen"/>tions: This making up the whole Century, and preventing any further trouble to the Reader for the preſent, mean<g ref="char:EOLhyphen"/>ing to leave to Poſte<g ref="char:EOLhyphen"/>rity a Book, wherein under each of theſe Heads the means to put in execution and viſible trial all and every of theſe Inventions, with
+<pb n="72" facs="tcp:101583:49"/> the ſhape and form of all things belonging to them, ſhall be Printed by Braſs-plates.</p>
+            <trailer>In Bonum Publicum, &amp; Ad majorem DEI Gloriam.</trailer>
+            <pb facs="tcp:101583:49"/>
+            <pb facs="tcp:101583:50"/>
+         </div>
+      </body>
+      <back>
+         <div type="index">
+            <pb facs="tcp:101583:50"/>
+            <head>Index.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>SEals abundantly-ſigni<g ref="char:EOLhyphen"/>ficant.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Private and particular to each owner.</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>An one-line Cypher.</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Reduced to a Point.</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Varied ſignificantly to all the 24. letters.</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>A mute and perfect diſcourſe by colours.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <pb facs="tcp:101583:51"/>
+                  <row>
+                     <cell>To hold the ſame by night.</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>To level Cannons by night.</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>A Ship-deſtroying Engine.</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>How to be faſtened from-a-loof and under water.</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>How to prevent both.</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>An unſinkable Ship.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Falſe deſtroying Decks.</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>Multiplied ſtrength in little room.</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>A Boat driving againſt wind and tide.</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>A Sea-ſailing Fort.</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>A pleaſant floting Gar<g ref="char:EOLhyphen"/>den.</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>An Houre-glaſſe Foun<g ref="char:EOLhyphen"/>tain.</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>A Coach-ſaving Engine.</cell>
+                     <cell>19</cell>
+                  </row>
+                  <pb facs="tcp:101583:51"/>
+                  <row>
+                     <cell>A Balance Water-work.</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>A Bucket-fountain.</cell>
+                     <cell>21</cell>
+                  </row>
+                  <row>
+                     <cell>An ebbing and flowing Ri<g ref="char:EOLhyphen"/>ver.</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>An ebbing and flowing Caſtle-clock.</cell>
+                     <cell>23</cell>
+                  </row>
+                  <row>
+                     <cell>A Strength-increaſing Spring.</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>A double drawing Engine for weights.</cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>A to and fro Lever.</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>A moſt eaſie level Draught.</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>A portable Bridge.</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>A moveable Fortification.</cell>
+                     <cell>29</cell>
+                  </row>
+                  <row>
+                     <cell>A Riſing Bulwork.</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>An approaching Blinde.</cell>
+                     <cell>31</cell>
+                  </row>
+                  <row>
+                     <cell>An univerſall Character.</cell>
+                     <cell>32</cell>
+                  </row>
+                  <pb facs="tcp:101583:52"/>
+                  <row>
+                     <cell>A Needle-alphabet.</cell>
+                     <cell>33</cell>
+                  </row>
+                  <row>
+                     <cell>A knotted String-alpha<g ref="char:EOLhyphen"/>bet.</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>A Fringe-alphabet.</cell>
+                     <cell>35</cell>
+                  </row>
+                  <row>
+                     <cell>A Bracelet-alphabet.</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>A Pinck'd Glove-alpha<g ref="char:EOLhyphen"/>bet.</cell>
+                     <cell>37</cell>
+                  </row>
+                  <row>
+                     <cell>A Sieve-alphabet.</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>A Lanthorn-alphabet.</cell>
+                     <cell>39</cell>
+                  </row>
+                  <row>
+                     <cell>An alphabet by the Smell.</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>An alphabet by the Taste.</cell>
+                     <cell>41</cell>
+                  </row>
+                  <row>
+                     <cell>An alphabet by the Touch.</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>A variation of all and each of theſe.</cell>
+                     <cell>43</cell>
+                  </row>
+                  <row>
+                     <cell>A Key-Piſtol.</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>A moſt conceited Tinder-box.</cell>
+                     <cell>45</cell>
+                  </row>
+                  <row>
+                     <cell>An artificial Bird.</cell>
+                     <cell>46</cell>
+                  </row>
+                  <pb facs="tcp:101583:52"/>
+                  <row>
+                     <cell>An Hour Water-ball.</cell>
+                     <cell>47</cell>
+                  </row>
+                  <row>
+                     <cell>A ſcru'd aſcent of Stairs.</cell>
+                     <cell>48</cell>
+                  </row>
+                  <row>
+                     <cell>A Tobacco-tongs Engine.</cell>
+                     <cell>49</cell>
+                  </row>
+                  <row>
+                     <cell>A Pocket-ladder.</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>A Rule of Gradation.</cell>
+                     <cell>51</cell>
+                  </row>
+                  <row>
+                     <cell>A myſticall jangling of Bells.</cell>
+                     <cell>52</cell>
+                  </row>
+                  <row>
+                     <cell>An hollowing of a Water-ſcrue.</cell>
+                     <cell>53</cell>
+                  </row>
+                  <row>
+                     <cell>A tranſparent Water-ſcrue.</cell>
+                     <cell>54</cell>
+                  </row>
+                  <row>
+                     <cell>A double Water-ſcrue.</cell>
+                     <cell>55</cell>
+                  </row>
+                  <row>
+                     <cell>An advantageous change of Centres.</cell>
+                     <cell>56</cell>
+                  </row>
+                  <row>
+                     <cell>A conſtant Water-flowing and ebbing motion.</cell>
+                     <cell>57</cell>
+                  </row>
+                  <row>
+                     <cell>An often-diſcharging Pi<g ref="char:EOLhyphen"/>ſtol.</cell>
+                     <cell>58</cell>
+                  </row>
+                  <pb facs="tcp:101583:53"/>
+                  <row>
+                     <cell>An eſpecial way for Cara<g ref="char:EOLhyphen"/>bines.</cell>
+                     <cell>59</cell>
+                  </row>
+                  <row>
+                     <cell>A Flask-charger.</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell>A way for Muſquets.</cell>
+                     <cell>61</cell>
+                  </row>
+                  <row>
+                     <cell>A way for a Harquebus, a Crock.</cell>
+                     <cell>62</cell>
+                  </row>
+                  <row>
+                     <cell>For Sakers and Minyons.</cell>
+                     <cell>63</cell>
+                  </row>
+                  <row>
+                     <cell>For the biggeſt Cannon.</cell>
+                     <cell>64</cell>
+                  </row>
+                  <row>
+                     <cell>For a whole ſide of Ship-muſquets.</cell>
+                     <cell>65</cell>
+                  </row>
+                  <row>
+                     <cell>For guarding ſeveral adve<g ref="char:EOLhyphen"/>nues to a Town.</cell>
+                     <cell>66</cell>
+                  </row>
+                  <row>
+                     <cell>For Muſquettoons on horſe<g ref="char:EOLhyphen"/>back.</cell>
+                     <cell>67</cell>
+                  </row>
+                  <row>
+                     <cell>A Fire Water-work.</cell>
+                     <cell>68</cell>
+                  </row>
+                  <row>
+                     <cell>A triangle Key.</cell>
+                     <cell>69</cell>
+                  </row>
+                  <row>
+                     <cell>A Roſe Key.</cell>
+                     <cell>70</cell>
+                  </row>
+                  <pb facs="tcp:101583:53"/>
+                  <row>
+                     <cell>A ſquare Key with a turning ſcrue.</cell>
+                     <cell>71</cell>
+                  </row>
+                  <row>
+                     <cell>An Eſcocheon for all Locks.</cell>
+                     <cell>72</cell>
+                  </row>
+                  <row>
+                     <cell>A tranſmittible Gallery.</cell>
+                     <cell>73</cell>
+                  </row>
+                  <row>
+                     <cell>A conceited Door.</cell>
+                     <cell>74</cell>
+                  </row>
+                  <row>
+                     <cell>A Diſcourſe woven in Tape or Ribbon.</cell>
+                     <cell>75</cell>
+                  </row>
+                  <row>
+                     <cell>To write in the dark.</cell>
+                     <cell>76</cell>
+                  </row>
+                  <row>
+                     <cell>A flying man.</cell>
+                     <cell>77</cell>
+                  </row>
+                  <row>
+                     <cell>A continually-going Watch.</cell>
+                     <cell>78</cell>
+                  </row>
+                  <row>
+                     <cell>A total locking of Cabinet-boxes.</cell>
+                     <cell>79</cell>
+                  </row>
+                  <row>
+                     <cell>Light Piſtol-barrels.</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>A Comb-conveyance for Let<g ref="char:EOLhyphen"/>ters.</cell>
+                     <cell>81</cell>
+                  </row>
+                  <row>
+                     <cell>A Knife, Spoon or Fork-con<g ref="char:EOLhyphen"/>veyance.</cell>
+                     <cell>82</cell>
+                  </row>
+                  <pb facs="tcp:101583:54"/>
+                  <row>
+                     <cell>A Raſping-mill.</cell>
+                     <cell>83</cell>
+                  </row>
+                  <row>
+                     <cell>An arithmetical Inſtrument.</cell>
+                     <cell>84</cell>
+                  </row>
+                  <row>
+                     <cell>An untoothſome Pear.</cell>
+                     <cell>85</cell>
+                  </row>
+                  <row>
+                     <cell>An impriſoning Chair.</cell>
+                     <cell>86</cell>
+                  </row>
+                  <row>
+                     <cell>A Candle-mold.</cell>
+                     <cell>87</cell>
+                  </row>
+                  <row>
+                     <cell>A Brazen head.</cell>
+                     <cell>88</cell>
+                  </row>
+                  <row>
+                     <cell>Primero Gloves.</cell>
+                     <cell>89</cell>
+                  </row>
+                  <row>
+                     <cell>A Dicing-box.</cell>
+                     <cell>90</cell>
+                  </row>
+                  <row>
+                     <cell>An artificiall Ring-horſe.</cell>
+                     <cell>91</cell>
+                  </row>
+                  <row>
+                     <cell>A Gravel Engine.</cell>
+                     <cell>92</cell>
+                  </row>
+                  <row>
+                     <cell>A Ship-raiſing Engine.</cell>
+                     <cell>93</cell>
+                  </row>
+                  <row>
+                     <cell>A Pocket Engine to open any door.</cell>
+                     <cell>94</cell>
+                  </row>
+                  <row>
+                     <cell>A double Croſs-bow.</cell>
+                     <cell>95</cell>
+                  </row>
+                  <row>
+                     <cell>A way for Sea-banks.</cell>
+                     <cell>96</cell>
+                  </row>
+                  <pb facs="tcp:101583:54"/>
+                  <row>
+                     <cell>A perſpective Inſtrument.</cell>
+                     <cell>97</cell>
+                  </row>
+                  <row>
+                     <cell>A Semi-omnipotent Engine.</cell>
+                     <cell>98</cell>
+                  </row>
+                  <row>
+                     <cell>A moſt admirable way to raiſe Weights.</cell>
+                     <cell>99</cell>
+                  </row>
+                  <row>
+                     <cell>A ſtupendious Water-work.</cell>
+                     <cell>100</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
